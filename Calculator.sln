@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssertDemo", "AssertDemo\As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssertDemo.Test", "AssertDemo.Test\AssertDemo.Test.csproj", "{B44EE1D2-FBAF-49B5-9034-E6AB4345EBFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributesDemo", "AttributesDemo\AttributesDemo.csproj", "{668B4497-3446-46E4-A1B8-658CBF7FF7F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributesDemo.Tests", "AttributesDemo.Tests\AttributesDemo.Tests.csproj", "{1BB97A70-61CB-4E1D-BD88-56AAC2F22553}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B44EE1D2-FBAF-49B5-9034-E6AB4345EBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B44EE1D2-FBAF-49B5-9034-E6AB4345EBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B44EE1D2-FBAF-49B5-9034-E6AB4345EBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668B4497-3446-46E4-A1B8-658CBF7FF7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668B4497-3446-46E4-A1B8-658CBF7FF7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668B4497-3446-46E4-A1B8-658CBF7FF7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668B4497-3446-46E4-A1B8-658CBF7FF7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB97A70-61CB-4E1D-BD88-56AAC2F22553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB97A70-61CB-4E1D-BD88-56AAC2F22553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB97A70-61CB-4E1D-BD88-56AAC2F22553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB97A70-61CB-4E1D-BD88-56AAC2F22553}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
